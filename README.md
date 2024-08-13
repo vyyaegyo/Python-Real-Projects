@@ -5,6 +5,7 @@ Complete Python Course with 10 Real-World Projects
 3. Application 3: Controlling the webcam and detecting objects
 4. Application 4: Data analysis and data visualization with Pandas and Matplotlib
 5. Application 5: Data analysis and visualization in browser interactive plots
+6. Application 6: Building Desktop Graphical User Interfaces (GUI) with Python
 
 
 
